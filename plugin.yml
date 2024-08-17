@@ -1,0 +1,14 @@
+name: PlayerPosition
+main: tienanh109\PlayerPosition\Main
+version: 1.0.0
+api: 2.0.0
+author: tienanh109
+commands:
+  pos:
+    description: Hiển thị toạ độ của bạn
+    usage: "/pos"
+    permission: playerposition.command.pos
+permissions:
+  playerposition.command.pos:
+    default: true
+    description: Cho phép sử dụng lệnh /pos
