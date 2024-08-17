@@ -9,14 +9,14 @@ A simple plugin that displays user coordinates using the /pos command for **Mine
 - **Permission**: All players
 
 ## How to build?
-- [Download project in **zip format**](*)
-- Enter [**Pocketmine Tools**](https://pmt.mcpe.fun/create/) and press **create**!
+- [Download project in **zip format**](https://github.com/tienanh109/Simple-Pos-Plugin/archive/refs/heads/main.zip)
+- Enter [**Pocketmine Tools**](https://pmt.mcpe.fun/create/), import zip file and press **create**!
 ## Credits
 - tienanh109 (Owner of projects)
 - Open Source Code for free!
 
 ## Download:
-- [Download it here](*)
+- [Download it here](https://github.com/tienanh109/Simple-Pos-Plugin/releases/download/Final/SimplePos.Vietnamese.phar)
 - Put it in **/plugins/ folder** and start the server
 
 ### Notes:
