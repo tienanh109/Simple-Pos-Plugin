@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/tienanh109/Simple-Pos-Plugin
+build-by-default: true
+branches:
+- main
+projects:
+  Simple-Pos-Plugin:
+    path: ""
+...
